@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<directories>
+  <dir>
+    <category>病理</category>
+    <in_dir>C:\Users\MJ622\Desktop\srl_inspection_result\srl_病理</in_dir>
+  </dir>
+  <dir>
+    <category>スメア</category>
+    <in_dir>C:\Users\MJ622\Desktop\srl_inspection_result\srl_スメア</in_dir>
+  </dir>
+</directories>

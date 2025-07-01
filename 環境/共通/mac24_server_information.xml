@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DBs>
+  <DB>
+    <code>0439158</code>
+    <odbc_name>MdiCache_shinjuku</odbc_name>
+  </DB>
+  <DB>
+    <code>0233528</code>
+    <odbc_name>MdiCache_Toukyo</odbc_name>
+  </DB>
+  <DB>
+    <code>1635333</code>
+    <odbc_name>MdiCache_ikebukuro</odbc_name>
+  </DB>
+  <DB>
+    <code>6506307</code>
+    <odbc_name>MdiCache_saitama</odbc_name>
+  </DB>
+  <DB>
+    <code>0630426</code>
+    <odbc_name>MdiCache_Ueno</odbc_name>
+  </DB>
+  <DB>
+    <code>1337120</code>
+    <odbc_name>MdiCache_Shibuya</odbc_name>
+  </DB>
+</DBs>
